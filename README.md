@@ -5,4 +5,9 @@ Finish up the Work Plan; Load, normalise and view SEG-Y data on jupyter notebook
 
 ## Week 2  
 
-Done the first model; Implement many data loading and augmentation methods; Get models for exercises as well.
+Have done the first model; Implement many data loading and augmentation methods; Get models for exercises as well.
+
+
+## Week 3  
+
+Have done the set-up for both Feed forward and Convolutional Neural Networks training. Get a lot different of methods to test the model performance
