@@ -10,4 +10,4 @@ Have done the first model; Implement many data loading and augmentation methods;
 
 ## Week 3  
 
-Have done the set-up for both Feed forward and Convolutional Neural Networks training. Get a lot different of methods to test the model performance
+Have done the set-up for both Feed forward and Convolutional Neural Networks training; Get a lot different of methods to test the model performance
