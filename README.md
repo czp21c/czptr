@@ -13,6 +13,6 @@ Have done the first model; Implement many data loading and augmentation methods;
 Have done the set-up for both Feed forward and Convolutional Neural Networks training; Get a lot different of methods to test the model performance
 
 
-## Week 3  
+## Week 4  
 
 Tried different complex networks but doesn't work because the CPU issue; Test the models on test slice. Done the set-up for the variogram calculation.
