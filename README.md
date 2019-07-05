@@ -15,4 +15,9 @@ Have done the set-up for both Feed forward and Convolutional Neural Networks tra
 
 ## Week 4  
 
-Tried different complex networks but doesn't work because the CPU issue; Test the models on test slice. Done the set-up for the variogram calculation.
+Tried different complex networks but doesn't work because the CPU issue; Test the models on test slice; Done the set-up for the variogram calculation.
+
+
+## Week 5  
+
+Trained with complex networks and different parameters for CNN; Done a work version of U-Net model; Done GAN and DCGAN set up.
