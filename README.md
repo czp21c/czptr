@@ -21,3 +21,8 @@ Tried different complex networks but doesn't work because the CPU issue; Test th
 ## Week 5  
 
 Trained with complex networks and different parameters for CNN; Done a work version of U-Net model; Done GAN and DCGAN set up.
+
+
+## Week 6 & 7
+
+Trained with other attributes to achieve a 3D training. Created a full version Jupyter Notebook with all models. Separated the train file with the helper functions.
