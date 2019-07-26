@@ -26,3 +26,8 @@ Trained with complex networks and different parameters for CNN; Done a work vers
 ## Week 6 & 7
 
 Trained with other attributes to achieve a 3D training. Created a full version Jupyter Notebook with all models. Separated the train file with the helper functions.
+
+
+## Week 8
+
+Compare different models using GPU. Modify UNet Model. Prepare final report.
